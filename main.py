@@ -9,3 +9,5 @@ b = a
 a += a
 print('a:', a)
 print('b:', b)
+
+print("Random stuff")
